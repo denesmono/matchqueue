@@ -2,5 +2,9 @@
   "enabledPlugins": {
     "security-guidance@claude-plugins-official": true,
     "mattpocock-skills@claude-plugins-official": true
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "~/.claude/statusline.sh"
   }
 }
